@@ -1,11 +1,12 @@
 # Degree
 - degree: Bachelor of Arts, History
   uni: University of Rochester
-  year: 2016 &mdash; 2018
-  summary: Some stuff you might wanna mention, like classes
+  year: 2018
 
-- degree: Degree
-  uni: SUNY whatever bruh
-  year: 2015
-  award: Any kind of award
-  summary: You can choose to have either a single or multiple awards
+- degree: Associate in Science
+  uni: SUNY Delhi
+  year: 2016
+
+- degree: High School Degree
+  uni: Expeditionary Learning School for Community Leaders
+  year: 2014
