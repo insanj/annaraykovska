@@ -11,7 +11,7 @@ ghpages:
 setup:
 	sudo apt install libffi-dev
 	sudo gem inst ffi
-	bundle install
+	sudo bundle install
 
 clean:
 	rm -r -f docs
