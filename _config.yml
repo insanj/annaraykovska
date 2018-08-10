@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Anna Raykovska"
-resume_title:                   "Philadelphia, PA"
+resume_title:                   "Historian & Artist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "me@annaraykovska.com"
@@ -20,8 +20,8 @@ resume_contact_email:           "me@annaraykovska.com"
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "🐟 Fishtown, Philadelphia, PA • 📮 me@annaraykovska.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>👋 Hi, my name is Anna!</p>"
 
@@ -40,7 +40,7 @@ resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
