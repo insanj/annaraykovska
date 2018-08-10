@@ -1,13 +1,11 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Arts, History
+  uni: University of Rochester
+  year: 2016 &mdash; 2018
+  summary: Some stuff you might wanna mention, like classes
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: Degree
+  uni: SUNY whatever bruh
+  year: 2015
+  award: Any kind of award
   summary: You can choose to have either a single or multiple awards
