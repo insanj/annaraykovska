@@ -14,16 +14,16 @@ resume_name:                    "Anna Raykovska"
 resume_title:                   "Historian & Artist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "me@annaraykovska.com"
+resume_contact_email:           "araykovska@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "<i class='em em-blowfish no-print'></i> Fishtown, Philadelphia, PA • <i class='em em-mailbox_with_mail no-print'></i> me@annaraykovska.com"
+resume_header_contact_info:     "<i class='em em-bee no-print'></i> Brooklyn, New York • <i class='em em-mailbox_with_mail no-print'></i> araykovska@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>An insightful and hardworking graduate who is determined to learn. Sets relative goals to achieve a better understanding of the tasks. Has positive work attitude. Work and internship experience created an appreciation towards education and co-workers who helped guide me. A highly enthusiastic, organized learner/professional with strong written and verbal communication skills. Has excellent customer interaction and persuasion and interacts well with others. Possess an outgoing personality.</p>"
+resume_header_intro: "<p>An insightful and hardworking graduate who is determined to learn. Sets careful goals to achieve a better understanding of tasks using a strong analytical and social background. Motivated to help others with a positive work attitude. Professional experience demonstrates an appreciation towards education and a dedication to the co-workers who guided me. A highly enthusiastic, organized leader with competitive written and verbal communication skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
