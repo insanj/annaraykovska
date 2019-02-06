@@ -5,6 +5,10 @@
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
+    <div class="banner no-print" style='cursor: url("cursor.png"), auto !important; background-color: #0074D9; color: hsla(208, 100%, 85%, 1.0); width: 200px; height: 40px; position: absolute; top: 20px; left: -60px; transform: rotate(-45deg); text-align: center; font-family: Helvetica, Arial, sans-serif; line-height: 37px; font-variant: small-caps;'>
+      For Hire!
+    </div>
+
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
@@ -231,8 +235,8 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer no-print">
-        <p class="footer-line"> &copy; 2018-2019 <i class="em em-cat"></i> <a href="https://annaraykovska.com">anna raykovska</a> and <i class="em em-earth_asia"></i> <a href="LICENSE">joel glovier</a></p>
+      <footer class="page-footer no-print" style="opacity: 0.3;">
+        <p class="footer-line"> &copy; 2018-2019 <i class="em em-cat"></i> <a href="https://annaraykovska.com" style="text-decoration: none;">anna raykovska</a> and <i class="em em-earth_asia"></i> <a href="LICENSE" style="text-decoration: none;">joel glovier</a></p>
       </footer>
 
     </div>
