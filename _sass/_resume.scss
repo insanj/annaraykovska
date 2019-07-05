@@ -69,9 +69,6 @@
     }
   }
 
-  .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
-  }
 }
 
 .icon-links {
