@@ -20,10 +20,10 @@ resume_contact_email:           "araykovska@gmail.com"
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "<i class='em em-tropical_fish no-print'></i> Philadelphia, PA  •  <i class='em em-mailbox_with_mail no-print'></i> araykovska@gmail.com"
+resume_header_contact_info:     "South Jersey  •  araykovska@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "Sets careful goals to achieve a better understanding of tasks using a strong analytical and social background. Motivated to help others with a positive work attitude. Professional experience demonstrates an appreciation towards education and a dedication to the co-workers who guided me."
+resume_header_intro: ""
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
